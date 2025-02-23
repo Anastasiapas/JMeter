@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Adamson Tannehill</name>
+   <tag></tag>
+   <elementGuidId>8acfbf60-1250-4648-88ab-51942bde2be0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mp-tfa']/p/b/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cb1372dc-787b-487e-94bb-86f9164d4202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Adamson_Tannehill</value>
+      <webElementGuid>9fcf1d99-bd76-40e3-8bb9-24f2080525cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adamson Tannehill</value>
+      <webElementGuid>a8c61052-d45a-4e9a-b582-260f16bdcf4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp-tfa&quot;)/p[1]/b[1]/a[1]</value>
+      <webElementGuid>5ec3bab9-a7ec-4c68-9c0f-6f0d680a058c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mp-tfa']/p/b/a</value>
+      <webElementGuid>2783eba7-25f4-4ded-a6b3-88af1b454671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Adamson Tannehill')]</value>
+      <webElementGuid>9c8d7695-75ec-43fd-8594-9fe58d0c53ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Adamson_Tannehill')]</value>
+      <webElementGuid>6c48e0f6-f12d-4c94-9acd-ce694bc7d35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/a</value>
+      <webElementGuid>c16e6661-430b-4740-bd1b-173a640e0c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Adamson_Tannehill' and (text() = 'Adamson Tannehill' or . = 'Adamson Tannehill')]</value>
+      <webElementGuid>4f5a93e8-9292-456d-8a8e-411879bd2960</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

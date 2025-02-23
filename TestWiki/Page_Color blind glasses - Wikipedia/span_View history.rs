@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View history</name>
+   <tag></tag>
+   <elementGuidId>38141142-ef2b-4bbf-86b4-babd58b67b8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Past revisions of this page [ctrl-option-h]&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ca-history']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d600f01-ec0e-4bb8-a821-34ad2acd4159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View history</value>
+      <webElementGuid>8786c63d-54a2-4667-8b75-03b00928cc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ca-history&quot;)/a[1]/span[1]</value>
+      <webElementGuid>20de66e6-6b3c-4b7a-be4b-c371fdeea1dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ca-history']/a/span</value>
+      <webElementGuid>614b1060-fc65-437d-93fc-db1c90451cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>3457476a-a964-496d-8b82-fca2bc4c64cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View history' or . = 'View history')]</value>
+      <webElementGuid>ee68290e-4006-414d-8ff1-76720c28bcdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
